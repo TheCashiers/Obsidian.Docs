@@ -12,7 +12,7 @@ For claims represented user's personal information, see [Claims in Obsidian OAut
 
 ## Claims
 |ClaimType|Type|Enables|
-|:-|:-:|:-|
+|:-|:-|:-|
 |http://schema.za-pt.org/Obsidian/ManagementAPI/User/UpdateUserName |User|Represents user can modify other user's user name
 |http://schema.za-pt.org/Obsidian/ManagementAPI/User/UpdatePassword |User|Represents user can modify other user's password
 |http://schema.za-pt.org/Obsidian/ManagementAPI/User/UpdateProfile |User|Represents user can modify other user's profile
@@ -21,7 +21,7 @@ For claims represented user's personal information, see [Claims in Obsidian OAut
 |http://schema.za-pt.org/Obsidian/ManagementAPI/User/GetUser |User|Represents user can query any user's information
 |http://schema.za-pt.org/Obsidian/ManagementAPI/Client/GetClient |Client|Represents user can query information of a client
 |http://schema.za-pt.org/Obsidian/ManagementAPI/Client/GetClientSecret |Client|Represents user can query secret of a client
-|http://schema.za-pt.org/Obsidian/ManagementAPI/Client/AddClient|Client |Represents user can add a new client
+|http://schema.za-pt.org/Obsidian/ManagementAPI/Client/AddClient |Client|Represents user can add a new client
 |http://schema.za-pt.org/Obsidian/ManagementAPI/Client/UpdateClient |Client|Represents user can modify a client
 |http://schema.za-pt.org/Obsidian/ManagementAPI/Client/UpdateClientSecret |Client|Represents user can modify secret of a client
 |http://schema.za-pt.org/Obsidian/ManagementAPI/Scope/GetScope |Scope|Represents user can query information of a permission scope
