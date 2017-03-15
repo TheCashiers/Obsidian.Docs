@@ -8,3 +8,5 @@ Welcome to Obsidian.Docs's documentation!
 
 .. toctree::
    :maxdepth: 2
+
+:doc:`/mapi/claims`

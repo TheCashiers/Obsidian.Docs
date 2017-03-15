@@ -1,3 +1,5 @@
+.. _claims:
+
 Claims in Obsidian Management API
 =================================
 
