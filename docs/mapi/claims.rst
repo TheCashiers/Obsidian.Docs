@@ -1,5 +1,3 @@
-.. _claims:
-
 Claims in Obsidian Management API
 =================================
 
@@ -12,10 +10,12 @@ If user wants to access a manament API action, a JsonWebToken must be added into
 
 In this section, we mainly list all available claims that can be given to user.
 
-For claims represented user's personal information, see [Claims in Obsidian OAuth Server](http://github.com)
+For claims represented user's personal information, see :doc:`Claims in Obsidian OAuth Server<../oauth/claims>`
 
     **Notice : Claim represents a theoretical permission. In fact, What a user can operate depends on authorization policies definitions in authorizationpolicy.json**
 
+Claims list
+-----------
 
 +--------+---------------------------------------------------------------+------------+------------------------------------------------------------+
 |Type    |ClaimType                                                      |ClaimValue  |Enables                                                     |        

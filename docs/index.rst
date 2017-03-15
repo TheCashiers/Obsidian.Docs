@@ -1,5 +1,3 @@
-.. _index:
-
 Welcome to Obsidian.Docs's documentation!
 =========================================
 .. _introduce-doc:
@@ -7,9 +5,17 @@ Welcome to Obsidian.Docs's documentation!
 .. toctree::
    :maxdepth: 2
    :caption: Introduce
-   
+
    index
 
+.. _oauth-doc:
+
+.. toctree::
+   :maxdepth: 2
+   :caption: OAuth Server
+
+   oauth/claims
+   
 .. _mapi-doc:
 
 .. toctree::
@@ -17,3 +23,4 @@ Welcome to Obsidian.Docs's documentation!
    :caption: ManagementAPI
 
    mapi/claims
+
