@@ -1,12 +1,19 @@
-.. Obsidian.Docs documentation master file, created by
-   sphinx-quickstart on Wed Mar 15 16:24:06 2017.
-   You can adapt this file completely to your liking, but it should at least
-   contain the root `toctree` directive.
+.. _index:
 
 Welcome to Obsidian.Docs's documentation!
 =========================================
+.. _introduce-doc:
 
 .. toctree::
    :maxdepth: 2
+   :caption: Introduce
+   
+   index
 
-:doc:`/mapi/claims`
+.. _mapi-doc:
+
+.. toctree::
+   :maxdepth: 2
+   :caption: ManagementAPI
+
+   mapi/claims
