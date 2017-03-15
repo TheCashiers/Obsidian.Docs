@@ -1,12 +1,16 @@
-Welcome to Obsidian.Docs's documentation!
+Welcome to Obsidian's documentation!
 =========================================
-.. _introduce-doc:
+
+Obsidian is an OAuth-based Authentication System.It also supports Resource Owner Password Credentials so you can use it as a normal CAS System.
+
+
+.. _getstart-doc:
 
 .. toctree::
    :maxdepth: 2
    :caption: Introduce
 
-   index
+   basic/getting-start
 
 .. _oauth-doc:
 
@@ -15,7 +19,7 @@ Welcome to Obsidian.Docs's documentation!
    :caption: OAuth Server
 
    oauth/claims
-   
+
 .. _mapi-doc:
 
 .. toctree::
