@@ -28,3 +28,13 @@ Obsidian is an OAuth-based Authentication System.It also supports Resource Owner
 
    mapi/claims
 
+.. _dev-doc:
+
+.. toctree::
+   :maxdepth: 2
+   :caption: Development
+
+   dev/index
+   dev/toolkit-install
+   dev/name-convention
+
