@@ -11,4 +11,4 @@ Toolkit Installation
  cd ./src/Obsidian/
  dotnet restore
  dotnet --verbose build
- npm update
+ yarn
