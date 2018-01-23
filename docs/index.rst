@@ -11,6 +11,8 @@ Obsidian is an OAuth-based Authentication System.It also supports Resource Owner
    :caption: Introduce
 
    basic/getting-start
+   basic/install-guide-linux
+   basic/install-guide-windows
 
 .. _oauth-doc:
 
